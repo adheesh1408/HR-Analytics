@@ -4,6 +4,7 @@
 Employee attrition has been significantly higher than expected (32.15%), prompting the need to identify key drivers and opportunities for improvement. Using SQL and Tableau, I analyzed employee-level data across tenure, engagement, satisfaction, promotion history, and department to determine where turnover is concentrated and what differentiates employees who stay vs. employees who leave.
 
 The analysis shows that attrition is heavily concentrated among mid-tenure employees (2–5 years), varies sharply across departments, and is not directly correlated with engagement scores alone. Based on these findings, I recommend directing HR and leadership teams to focus on mid-tenure intervention, departmental experience gaps (especially Marketing and Engineering), and deeper investigation into HR/Support turnover despite strong engagement.
+You can view the presentation report **[here](https://docs.google.com/presentation/d/1XayJ3aEV7NgKlZuZ55NJNlKVOQW6HrwZ/edit?slide=id.p9#slide=id.p9)**.
 
 ## Business Problem
 Turnover directly impacts productivity, hiring costs, team stability, and organizational knowledge retention. Leadership observed higher-than-normal attrition and inconsistent employee experience metrics across departments. The goal of this analysis was to determine:
@@ -77,9 +78,6 @@ Based on the analysis, the strongest levers for reducing turnover are:
 
 ## Tableau Dashboard
 View the interactive dashboards **[here](https://public.tableau.com/app/profile/adheesh.ghotikar/viz/CompanyOverview_17631798868540/Dashboard1?publish=yes)** and **[here](https://public.tableau.com/app/profile/adheesh.ghotikar/viz/EmployeeAttritoninsights/Dashboard1?publish=yes)**
-
-## Presentation Report
-You can view the presentation report **[here](https://docs.google.com/presentation/d/1XayJ3aEV7NgKlZuZ55NJNlKVOQW6HrwZ/edit?slide=id.p9#slide=id.p9)**.
 
 
 ## Note
