@@ -78,6 +78,10 @@ Based on the analysis, the strongest levers for reducing turnover are:
 ## Tableau Dashboard
 View the interactive dashboards **[here](https://public.tableau.com/app/profile/adheesh.ghotikar/viz/CompanyOverview_17631798868540/Dashboard1?publish=yes)** and **[here](https://public.tableau.com/app/profile/adheesh.ghotikar/viz/EmployeeAttritoninsights/Dashboard1?publish=yes)**
 
+## Presentation Report
+You can view the presentation report **[here](https://docs.google.com/presentation/d/1XayJ3aEV7NgKlZuZ55NJNlKVOQW6HrwZ/edit?slide=id.p9#slide=id.p9)**.
+
+
 ## Note
 This dataset is synthetically generated and used solely for analysis and demonstration purposes.
 By Adheesh Ghotikar
